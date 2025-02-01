@@ -9,6 +9,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
+  background: hsl(0, 0%, 95%);
 }
 .container {
   max-width: 840px;
