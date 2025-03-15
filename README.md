@@ -46,7 +46,7 @@ You can view the live project [here 🎯](https://GunnarOliveira.github.io/3-col
 ```bash
 git clone https://github.com/GunnarOliveira/3-column-preview-card.git
 ```
-2. Open the index.html in your brownser
+2. Open the index.html in your browser
 
 ## Screenshot 👀📸
 
