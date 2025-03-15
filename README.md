@@ -47,15 +47,27 @@ You can view the live project [here 🎯](https://GunnarOliveira.github.io/3-col
 git clone https://github.com/GunnarOliveira/3-column-preview-card.git
 ```
 
-2. Open the `index.html` file in your browser.
+2. Navigate to the project directory:
+   
+```bash
+cd statsbomb-prediction-dashboard
+```
+
+3. Install the required dependencies:
+   
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the Streamlit app locally:
+   
+```bash
+streamlit run get_team_results.py
+```
 
 ## Screenshot 👀📸
 
 ![Design preview for the project](./design/desktop-preview.jpg)
 
-# Acknowledgments 🙏
 
-Challenge by [Frontend Mentor](https://www.frontendmentor.io/) to enhance design and coding skills.  
-Constant inspiration to create with purpose and excellence.
-
-Feel free to explore the project, share any feedback or suggestions, and don't forget, **Jesus Loves You!** ✨
+## Feel free to explore the project, share any feedback or suggestions, and don't forget, **Jesus Loves You!** ✨
