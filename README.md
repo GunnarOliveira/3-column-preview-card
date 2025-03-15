@@ -46,24 +46,7 @@ You can view the live project [here 🎯](https://GunnarOliveira.github.io/3-col
 ```bash
 git clone https://github.com/GunnarOliveira/3-column-preview-card.git
 ```
-
-2. Navigate to the project directory:
-   
-```bash
-cd statsbomb-prediction-dashboard
-```
-
-3. Install the required dependencies:
-   
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the Streamlit app locally:
-   
-```bash
-streamlit run get_team_results.py
-```
+2. Open the index.html in your brownser
 
 ## Screenshot 👀📸
 
